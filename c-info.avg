@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<avg id="imageavg" width="1280" height="720">
+    <image id="weltraum0" href="images/weltraum.png"/>
+    <image id="weltraum1" x="1280" y="0" href="images/weltraum.png"/>
+    <image id="weltraum2" x="0" y="720" href="images/weltraum.png"/>
+    <image id="weltraum3" x="1280" y="720" href="images/weltraum.png"/>
+    <image id="greece" href="images/greece.jpg"/>
+    <image id="maske" href="images/schacht_maske.png"/>
+    <image id="gluehen" href="images/gluehen.png"/>
+    <image id="stack" href="images/stack.png" opacity="0"/>
+    <video id="clamp0" x="800" y="300" loop="True" fps="30"
+        href="video/clamp_64.mpg"/>
+    <video id="clamp1" x="700" y="200" loop="True" fps="30"
+        href="video/clamp_64.mpg"/>
+    <video id="clamp2" x="300" y="100" loop="True" fps="30"
+        href="video/clamp_64.mpg"/>
+    <video id="clamp3" x="400" y="200" loop="True" fps="30"
+        href="video/clamp_64.mpg"/>
+    <video id="clamp4" x="1000" y="150" loop="True" fps="30"
+        href="video/clamp_64.mpg"/>
+    <video id="clamp5" x="400" y="500" loop="True" fps="30"
+        href="video/clamp_64.mpg"/>
+    <video id="clamp6" x="900" y="450" loop="True" fps="30"
+        href="video/clamp_64.mpg"/>
+</avg>
